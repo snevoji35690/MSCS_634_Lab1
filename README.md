@@ -6,13 +6,9 @@
 **Course:** MSCS 634 – Data Mining  
 **Lab Title:** Lab 1 – Data Visualization, Preprocessing, and Statistical Analysis
 
----
-
 ## Purpose of the Lab
 
 The purpose of this lab was to explore a real-world dataset using Python, Pandas, Matplotlib, and Jupyter Notebook. The lab focused on data visualization, data preprocessing, and statistical analysis techniques that are commonly used in data mining and data science projects.
-
----
 
 ## Dataset
 
@@ -28,8 +24,6 @@ The dataset contains sales-related information including:
 - Units Sold
 - Unit Selling Price
 - Unit Making Cost
-
----
 
 ## Data Visualization
 
@@ -48,8 +42,6 @@ The box plot provided a clear view of the spread of Units Sold and highlighted p
 - Different sales channels had different order frequencies.
 - The box plot helped identify unusual sales values that may be considered outliers.
 
----
-
 ## Data Preprocessing
 
 The following preprocessing techniques were applied:
@@ -65,8 +57,6 @@ Data reduction techniques were applied to simplify the dataset while retaining i
 
 ### Scaling and Discretization
 Min-Max Scaling was used to transform numerical values into a common range between 0 and 1. This helps ensure that variables with larger values do not dominate the analysis. Discretization grouped continuous sales values into categories such as Low, Medium, and High, making the data easier to interpret.
-
----
 
 ## Statistical Analysis
 
@@ -93,12 +83,8 @@ The following statistical techniques were performed:
 ### Correlation Analysis
 A correlation matrix was generated to evaluate relationships among numerical variables.
 
----
-
 ## Challenges Faced
 One challenge was learning how to use Jupyter Notebook and becoming familiar with its environment. Additional challenges included correctly loading the dataset, understanding preprocessing techniques, and performing statistical calculations. Organizing screenshots and preparing files for GitHub submission also required careful attention. Despite these challenges, the lab provided valuable hands-on experience with real-world data analysis.
-
----
 
 ## Conclusion
 
